@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assets/Plugins/Plugins.iml" filepath="$PROJECT_DIR$/Assets/Plugins/Plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temp/StagingArea/StagingArea.iml" filepath="$PROJECT_DIR$/Temp/StagingArea/StagingArea.iml" />
+    </modules>
+  </component>
+</project>
